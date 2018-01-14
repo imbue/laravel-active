@@ -1,5 +1,5 @@
 # Laravel Active
-Laravel Active is a helper package for Laravel that makes it easy to recognize if the current path is active.
+Laravel Active is a package for Laravel that makes it easy to recognize if the current path or route is active.
 
 ## Requirements
 - Laravel >=5.5
@@ -19,11 +19,14 @@ $ php artisan vendor:publish --tag=laravel-active
 
 ## Usage
 ```php
+// by path
 {{ active('articles') }}
-
 {{ active('articles/*') }}
-
 {{ active(['articles', 'articles/*']) }}
+  
+// by route name
+{{ active('articles.*') }}
+{{ active(['articles', 'articles.*']) }}
 ```
 
 #### Example
