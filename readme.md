@@ -1,4 +1,9 @@
 # Laravel Active
+
+[![Latest Stable Version](https://poser.pugx.org/tijdmachine/laravel-active/v/stable)](https://packagist.org/packages/tijdmachine/laravel-active)
+[![Total Downloads](https://poser.pugx.org/tijdmachine/laravel-active/downloads)](https://packagist.org/packages/tijdmachine/laravel-active)
+[![License](https://poser.pugx.org/tijdmachine/laravel-active/license)](https://packagist.org/packages/tijdmachine/laravel-active)
+
 Laravel Active is a package for Laravel that makes it easy to recognize if the current path or route is active.
 
 ## Requirements
@@ -39,4 +44,4 @@ $ php artisan vendor:publish --tag=laravel-active
 ```
 
 ## Credits
-This package is based on the package of [dwightwatson](https://github.com/dwightwatson/active) and stripped down/changed to personal preference.
+This package is based on [Active by dwightwatson](https://github.com/dwightwatson/active) and stripped down/changed to personal preference.
