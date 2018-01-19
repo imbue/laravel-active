@@ -1,8 +1,8 @@
 # Laravel Active
 
-[![Latest Stable Version](https://poser.pugx.org/tijdmachine/laravel-active/v/stable)](https://packagist.org/packages/tijdmachine/laravel-active)
-[![Total Downloads](https://poser.pugx.org/tijdmachine/laravel-active/downloads)](https://packagist.org/packages/tijdmachine/laravel-active)
-[![License](https://poser.pugx.org/tijdmachine/laravel-active/license)](https://packagist.org/packages/tijdmachine/laravel-active)
+[![Latest Stable Version](https://poser.pugx.org/imbue/laravel-active/v/stable)](https://packagist.org/packages/imbue/laravel-active)
+[![Total Downloads](https://poser.pugx.org/imbue/laravel-active/downloads)](https://packagist.org/packages/imbue/laravel-active)
+[![License](https://poser.pugx.org/imbue/laravel-active/license)](https://packagist.org/packages/tijdmachine/laravel-active)
 
 Laravel Active is a package for Laravel that makes it easy to recognize if the current path or route is active.
 
@@ -12,7 +12,7 @@ Laravel Active is a package for Laravel that makes it easy to recognize if the c
 ## Installation
 Add Laravel Active to your composer file via the composer require command
 ```sh
-$ composer require tijdmachine/laravel-active
+$ composer require imbue/laravel-active
 ```
 
 > Laravel 5.5 uses Package Auto-Discovery, so does not require you to manually add the ServiceProvider.
