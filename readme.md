@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/imbue/laravel-active/v/stable)](https://packagist.org/packages/imbue/laravel-active)
 [![Total Downloads](https://poser.pugx.org/imbue/laravel-active/downloads)](https://packagist.org/packages/imbue/laravel-active)
-[![License](https://poser.pugx.org/imbue/laravel-active/license)](https://packagist.org/packages/tijdmachine/laravel-active)
+[![License](https://poser.pugx.org/imbue/laravel-active/license)](https://packagist.org/packages/imbue/laravel-active)
 
 Laravel Active is a package for Laravel that makes it easy to recognize if the current path or route is active.
 
