@@ -1,6 +1,6 @@
 <?php
 
-namespace Tijdmachine\Active;
+namespace Imbue\Active;
 
 class Facade extends \Illuminate\Support\Facades\Facade
 {

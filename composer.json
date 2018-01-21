@@ -1,5 +1,5 @@
 {
-    "name": "tijdmachine/laravel-active",
+    "name": "imbue/laravel-active",
     "description": "Helper to check if the current route is active.",
     "keywords": [
         "laravel",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Tijdmachine\\Active\\": "src/"
+          "Imbue\\Active\\": "src/"
         },
         "files": [
           "src/helpers.php"
@@ -29,10 +29,10 @@
     "extra": {
       "laravel": {
         "providers": [
-          "Tijdmachine\\Active\\ActiveServiceProvider"
+          "Imbue\\Active\\ActiveServiceProvider"
         ],
         "aliases": {
-          "Active": "Tijdmachine\\Active\\Facade"
+          "Active": "Imbue\\Active\\Facade"
         }
       }
     }

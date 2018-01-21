@@ -7,7 +7,7 @@ Laravel Active is a package for Laravel that makes it easy to recognize if the c
 ## Installation
 Add Laravel Active to your composer file via the composer require command
 ```sh
-$ composer require tijdmachine/laravel-active
+$ composer require imbue/laravel-active
 ```
 
 > Laravel 5.5 uses Package Auto-Discovery, so does not require you to manually add the ServiceProvider.

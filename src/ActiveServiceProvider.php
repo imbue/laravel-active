@@ -1,6 +1,6 @@
 <?php
 
-namespace Tijdmachine\Active;
+namespace Imbue\Active;
 
 use Illuminate\Support\ServiceProvider;
 
