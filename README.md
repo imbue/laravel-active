@@ -11,7 +11,7 @@ Laravel Active is a package for Laravel that makes it easy to recognize if the c
 
 ## Installation
 Add Laravel Active to your composer file via the composer require command
-```sh
+```bash
 $ composer require imbue/laravel-active
 ```
 
